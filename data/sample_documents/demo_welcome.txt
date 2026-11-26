@@ -1,0 +1,18 @@
+DEMONSTRATION CONTENT — NOT AN OFFICIAL AGRICULTURAL SOURCE
+
+This short file exists only to show how the assistant's document upload and retrieval
+pipeline works. It contains no crop recommendation, pest-control instruction,
+government scheme eligibility rule, market price, or weather observation.
+
+The demo assistant should not use this sample as evidence for farming decisions.
+For crop-specific or safety-sensitive advice, consult an approved publication from
+ICAR, a State Agricultural University, or a Krishi Vigyan Kendra (KVK). If the
+assistant cannot find a reliable approved source, it should say so instead of guessing.
+
+यह केवल सिस्टम का प्रदर्शन करने के लिए नमूना पाठ है। यह आधिकारिक कृषि स्रोत नहीं है
+और इसमें खेती, कीट नियंत्रण, योजना, मंडी भाव या मौसम की कोई सलाह नहीं दी गई है।
+विश्वसनीय स्वीकृत जानकारी न मिलने पर कृपया कृषि विज्ञान केंद्र (KVK) से संपर्क करें।
+
+हा केवळ प्रणाली दाखवण्यासाठी नमुना मजकूर आहे. हा अधिकृत कृषी स्रोत नाही आणि यात
+पीक, कीड नियंत्रण, योजना, बाजारभाव किंवा हवामानाविषयी सल्ला नाही. खात्रीशीर मंजूर
+माहिती न मिळाल्यास कृषी विज्ञान केंद्र (KVK) शी संपर्क साधा.
